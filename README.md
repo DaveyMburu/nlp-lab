@@ -14,6 +14,8 @@ You will be able to:
 - Observe some techniques for feature engineering
 - Interpret the result of a final ML model that classifies text data
 
+# Check the index.ipynb for my working
+
 ## Your Task: Complete an End-to-End ML Process with the Newsgroups Dataset
 
 <a title="Bundesarchiv, B 145 Bild-F077948-0006 / Engelbert Reineke / CC-BY-SA 3.0, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F077948-0006,_Jugend-Computerschule_mit_IBM-PC.jpg"><img width="512" alt="Bundesarchiv B 145 Bild-F077948-0006, Jugend-Computerschule mit IBM-PC" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Bundesarchiv_B_145_Bild-F077948-0006%2C_Jugend-Computerschule_mit_IBM-PC.jpg"></a>
